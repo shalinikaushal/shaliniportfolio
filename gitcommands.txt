@@ -1,0 +1,9 @@
+# NPM 
+npm install
+npm run dev
+
+
+# GIT commands
+git add *
+git commit -m "feat: inital website design"
+git push
